@@ -1,0 +1,20 @@
+[
+    {
+        "surveyClass": "form1",
+        "roleType": "executive",
+        "totalCount": 2,
+        "reviewedCount": 1,
+        "unreviewedCount": 1,
+        "approvedCount": 1,
+        "rejectedCount": 3
+    },
+    {
+        "surveyClass": "form1",
+        "roleType": "vendor",
+        "totalCount": 8,
+        "reviewedCount": 8,
+        "unreviewedCount": 0,
+        "approvedCount": 8,
+        "rejectedCount": 0
+    }
+]

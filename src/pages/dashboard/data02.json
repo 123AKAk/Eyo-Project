@@ -1,0 +1,17 @@
+[
+    {
+        "name": "jan",
+        "value": 4000,
+        "colors": "#EDDFCF"
+    },
+    {
+        "name": "Feb",
+        "value": 3000,
+        "colors": "#B7A28C"
+    },
+    {
+        "name": "Mar",
+        "value": 2000,
+        "colors": "#93897E"
+    }
+]

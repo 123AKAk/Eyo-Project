@@ -1,0 +1,71 @@
+.dashboard {
+    background-color: #f3f3f3;
+    background-color: #f3f3f3;
+    height: 100% !important;
+    min-height: 100vh !important;
+    width: 100vw;
+    padding: 20px 0;
+}
+
+.front-row {
+    margin-top: -70px;
+}
+
+.card {
+    border: 1px solid #e6eaee;
+    overflow: hidden;
+    padding: 20px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+h3,
+h4,
+p {
+    font-family: 'Plus Jakarta Sans', Helvetica;
+}
+
+p,
+h4 {
+    font-weight: bold;
+}
+
+.tooltip-pointer {
+    position: absolute;
+    bottom: -8px; /* Adjust as needed */
+    left: 50%;
+    margin-left: -8px; /* Adjust the position of the pointer */
+    content: '';
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent; /* Increase the size of the pointer */
+    border-right: 8px solid transparent; /* Increase the size of the pointer */
+    border-top: 8px solid #333;
+}
+
+.user-circle {
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+}
+
+.card_subtext {
+    font-size: 15px;
+    line-height: 17px;
+    margin-top: 10px;
+}
+
+.userType {
+    color: #525252;
+    font-size: 14px;
+    margin-left: 6px;
+    font-weight: 500;
+}
+
+.time_setter {
+    border: 1px solid #e6eaee;
+}
